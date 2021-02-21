@@ -1,4 +1,4 @@
-# How They Test 
+# How They Test  |[![BINPIPE](https://img.shields.io/badge/YouTube-red.svg)](https://www.youtube.com/channel/UCPTgt4Wo0MAnuzNEEZlk90A)
 [![Contributions Welcome!](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 
 > A curated collection of publicly available resources on how software companies around the world test their software systems and build their quality culture.
